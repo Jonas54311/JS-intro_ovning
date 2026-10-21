@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+    <h2>document.getElementById</h2>
+
+    <p id="demo">1</p>
+
+    <p id="test">2</p>
+
+    <script>
+        //Hämta elementet med id:t test och tilldela den texten "Hej, Världen!"
+	
+    </script>
+
+</body>
+</html>
+
+<!--
+********************************************************
+ÖVNING 1: Skriv JavaScript kod för att ändra texten i p-elementet
+med id = test
+********************************************************
+-->
